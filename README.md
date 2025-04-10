@@ -9,8 +9,8 @@
 
 ### 🚀 About Me  
 
-- 🔭 Currently working on **Mobile Database Terminal (MDT) System** for law enforcement.  
-- 🌱 Learning **Django for backend & React.js for frontend development**.  
+- 🔭 Currently working on **Computer Aided Dispatch(CAD)** for law enforcement.  
+- 🌱 Learning **Django for backend fullstack**.  
 - 💡 Enthusiastic about **backend development, system architecture, and scalable applications**.  
 - 📫 Reach me at **sekamble2004@gmail.com**  
 - ⚡ Fun fact: **I’m too friendly and love collaborating on projects!**  
