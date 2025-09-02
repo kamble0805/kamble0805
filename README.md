@@ -1,75 +1,65 @@
 <h1 align="center">🚓 Shubham Kamble — CAD System Developer on Duty 🚓</h1>
 <h3 align="center">Backend Engineer | Civilian CAD Developer | Building Justice with Code</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamble0805&label=Dispatch%20System%20Logins&color=114488&style=flat" alt="Profile Views" />
-</p>
+<img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
+
+<h1>💫 About Me:</h1>
+<h2>🔭 I’m currently working on a Computer Aided Dispatch (CAD) System with Django.</h2>
 
 ---
 
-### 🧭 Mission Brief
-
-- 🔍 Working on a **Computer Aided Dispatch (CAD)** system to modernize law enforcement operations.  
-- 🛠️ Developing **Civilian Module**: civilians can join, register, and update their profiles.  
-- 🧱 Backend powered by **Django**, ensuring robust and secure architecture.  
-- 🛡️ Admin dashboard in place — system controls & monitoring ready for duty.  
-- 🎨 **User interface under development** — design enhancements in progress.  
-- 🚧 *Current Status*: **Project is under active development – reports incoming soon...**
-
----
-
-### 📡 Dispatch Terminal — Contact Me  
-
+<h1>🌐 Socials: </h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-kamble-a36b74347/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/shubham-kamble-a36b74347/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kamble_002" target="_blank">
+  <a href="https://instagram.com/kamble_002" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-📬 Email: **sekamble2004@gmail.com**
+---
+
+# 💻 Tech Stack: </br>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack – Code Arsenal
-
-#### 🚨 Core Languages:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-</p>
-
-#### 👮‍♂️ Frontend Surveillance Unit:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
-
-#### 🔐 Backend & Command Center:
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kamble0805&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 📊 Activity Logs – GitHub Duty Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamble0805&show_icons=true&theme=tokyonight&title_color=ffcc00&icon_color=ffcc00" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamble0805&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ffcc00&fire=ffcc00" alt="GitHub Streak Stats" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kamble0805&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=kamble0805&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamble0805&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-### 💡 Final Dispatch  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-If you're into **building secure systems**, **real-time communication**, or **dispatch logic**, let’s sync up.  
-Together, let’s **code the future of emergency services.**
+---
 
-> *“Keeping code clean and systems online — that’s the Kamble Protocol.”*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kamble0805&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kamble0805&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
