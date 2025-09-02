@@ -11,7 +11,7 @@
 
 - 🔍 Working on a **Computer Aided Dispatch (CAD)** system to modernize law enforcement operations.  
 - 🛠️ Developing **Civilian Module**: civilians can join, register, and update their profiles.  
-- 🧱 Backend Powered by **Django**, ensuring robust and secure architecture.  
+- 🧱 Backend powered by **Django**, ensuring robust and secure architecture.  
 - 🛡️ Admin dashboard in place — system controls & monitoring ready for duty.  
 - 🎨 **User interface under development** — design enhancements in progress.  
 - 🚧 *Current Status*: **Project is under active development – reports incoming soon...**
@@ -73,4 +73,3 @@ If you're into **building secure systems**, **real-time communication**, or **di
 Together, let’s **code the future of emergency services.**
 
 > *“Keeping code clean and systems online — that’s the Kamble Protocol.”*
-
