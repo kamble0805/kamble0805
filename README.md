@@ -1,12 +1,34 @@
-<h1 align="center">🚓 Shubham Kamble — CAD System Developer on Duty 🚓</h1>
-<h3 align="center">Backend Engineer | Civilian CAD Developer | Building Justice with Code</h3>
-
-<img width="500" align="right" alt="coding" src="https://bitbinders.in/wp-content/uploads/2021/04/websitedesigninggif.gif" />
-
-<h1>💫 About Me:</h1>
-<h2>🔭 I’m currently working on a Computer Aided Dispatch (CAD) System with Django.</h2>
-
----
+ # Shubham — Full‑Stack Developer
+ 
+ I design, build, and ship end‑to‑end web applications. I enjoy turning ideas into reliable products with clean UX, scalable APIs, and solid deployment pipelines.
+ 
+ ## About Me
+ - **Focus**: Full‑stack product development from UI to database and DevOps.
+ - **Approach**: Pragmatic, test‑minded, iterative shipping.
+ - **Looking for**: Web app projects, dashboards, SaaS, internal tools.
+ 
+ ## Tech Stack
+ - **Frontend**: React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
+ - **Backend**: Node.js, Express, NestJS, REST, GraphQL
+ - **Database**: PostgreSQL, MySQL, MongoDB, Prisma, TypeORM
+ 
+## Featured Projects
+- **Project A** — Modern full‑stack app with Next.js + Node.js + Postgres. Auth, RBAC, and responsive UI.
+- **Project B** — Realtime dashboard using WebSockets and charts, containerized with Docker.
+- **Project C** — SaaS starter with subscriptions, email flows, and CI/CD.
+ 
+## What I Build
+- **SaaS & dashboards** with clean UI and role‑based access.
+- **APIs** (REST/GraphQL) with authentication, validation, and observability.
+- **Data layers** with migrations, ORM, and performance in mind.
+- **Deployments** with CI/CD, environment configs, and monitoring basics.
+ 
+## Contact
+- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/shubham-kamble-a36b74347/
+- **GitHub**: https://github.com/kamble0805
+ 
+If you want this README tailored to specific projects or a particular stack, let me know and I’ll update sections accordingly.
 
 <h1>🌐 Socials: </h1>
 <p align="left">
