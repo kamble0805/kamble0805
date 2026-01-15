@@ -51,12 +51,6 @@ I am a Full Stack Developer and Project Manager focused on building modern, scal
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
----
-
-<h2>🏆 GitHub Highlights</h2>
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=kamble0805&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
