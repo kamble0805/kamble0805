@@ -27,7 +27,7 @@ I am a Full Stack Developer and Project Manager focused on building modern, scal
   <a href="https://www.linkedin.com/in/shubham-kamble-a36b74347/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kamble_002" target="blank">
+  <a href="https://instagram.com/kamble.1208" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
