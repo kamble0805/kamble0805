@@ -18,7 +18,7 @@ I am a Full Stack Developer and Project Manager focused on building modern, scal
 ---
 
 <h2>🚀 Current Focus</h2>
-<h3>🔭 Working on a Computer Aided Dispatch (CAD) System using Django</h3>
+<h3>🔭 Working on a Jeevanseva- Where help meets humanity</h3>
 
 ---
 
