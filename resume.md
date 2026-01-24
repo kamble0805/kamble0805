@@ -1,7 +1,7 @@
 ## **SHUBHAM EKNATH KAMBLE**  
 📞 8805643880 | ✉️ sekamble2004@gmail.com  
 📍 Virar, Maharashtra  
-🔗 LinkedIn: [Add Link] | 💻 GitHub: [Add Link]  
+🔗 LinkedIn:https://www.linkedin.com/in/sekamble1208/  | 💻 GitHub: https://github.com/kamble0805
 
 ---
 
