@@ -55,7 +55,8 @@ A community-focused platform designed to support blood donation coordination, do
 - Implemented real-time chat to improve coordination between donors and requesters  
 - Added donation history tracking with achievement badges and leaderboard ranking  
 - Integrated certificate upload and profile-based record management for completed donations  
-🔗 **GitHub:** [Link to repository]  
+🔗 **GitHub:** https://github.com/kamble0805/Main-portal-jeevanseva
+🔗 **Live:** https://portal.jeevanseva.in/auth
 
 ### **Workbench – Enterprise Business Operating System (BOS)**  
 An all-in-one business platform designed for software agencies to manage projects, teams, hiring workflows, and intern operations from a single system.  
