@@ -11,8 +11,8 @@ A recent Computer Science graduate with hands-on experience in customer support,
 ---
 
 ## **KEY SKILLS**  
-- **Programming Languages:** Python, Java  
-- **Web Development:** HTML, CSS  
+- **Programming Languages:** Python, Java,   
+- **Web Development:** HTML, CSS, JavaScript , React  
 - **Database Management:** MySQL  
 - **Tools & Platforms:** Tableau, Microsoft Excel  
 - **Operating Systems:** Windows  
@@ -65,7 +65,8 @@ An all-in-one business platform designed for software agencies to manage project
 - Supported HR processes such as hiring pipeline tracking, onboarding, and intern batch management  
 - Implemented role-based access control to ensure secure and role-specific access across teams  
 - Improved operational visibility by centralizing work updates, team availability, and productivity tracking  
-🔗 **GitHub:** [Link to repository]
+🔗 **GitHub:** https://github.com/kamble0805/workbench
+🔗 **Live:** https://workbench.vnest.tech/
 
 ### **MineFlow Ultimate – Mining Dispatch Management System**
 A web-based system designed to manage mining operations, dispatch workflows, fleet tracking, and real-time truck logging with multi-language support.
@@ -78,7 +79,8 @@ A web-based system designed to manage mining operations, dispatch workflows, fle
 - Delivered a mobile-friendly interface to support field-level usage across devices  
 - Included multi-language support to improve usability for local teams and operators  
 
-🔗 **GitHub:** [Link to repository]    
+🔗 **GitHub:** https://github.com/kamble0805/mineflow-ultimate
+🔗 **Live:** https://miningproto.vnest.tech/
 
 ### **Police MDT System – Java (Viva College, Virar, Maharashtra)**  
 A modern Police Mobile Data Terminal (MDT) prototype designed to support law enforcement operations through real-time monitoring, reporting, and case handling workflows.  
