@@ -40,7 +40,7 @@ A recent Computer Science graduate with hands-on experience in customer support,
 ---
 
 ## **EDUCATION**  
-### **Bachelor of Technology (B.Tech) in Computer Science**  
+### **Bachelor of Technology (B.Sc) in Computer Science**  
 **Viva College, Virar (West)**  
 Relevant Coursework: Data Structures, Algorithms, DBMS, Web Development, Operating Systems, Software Engineering  
 
